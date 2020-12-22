@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/asbin" target="blank"><img src="https://img.shields.io/twitter/follow/asbin?logo=twitter&style=for-the-badge" alt="asbin" /></a> </p>
 
-- 🔭 I’m currently working on [Monica](https://github.com/monicahq/monica/)
+- 🔭 I’m currently working on [Monica](https://github.com/monicahq/monica/) and [OfficeLife](https://github.com/officelifehq/officelife).
+- I've created a [WebAuthn connector for Laravel](https://github.com/asbiin/laravel-webauthn).
+- I've developped a [Cloudflare trusted proxies package for Laravel](https://github.com/monicahq/laravel-cloudflare).
+- I've developped a [DAV server adapter for Laravel](https://github.com/monicahq/laravel-sabre).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
