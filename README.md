@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Saettler</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate frontend/backend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asbiin&label=Profile%20views&color=0e75b6&style=flat" alt="asbiin" /> </p>
 
@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/asbin" target="blank"><img src="https://img.shields.io/twitter/follow/asbin?logo=twitter&style=for-the-badge" alt="asbin" /></a> </p>
 
 - 🔭 I’m currently working on [Monica](https://github.com/monicahq/monica/) and [OfficeLife](https://github.com/officelifehq/officelife).
+- I've made a plugin for semantic-release: [semantic-release-github-pullrequest](https://github.com/asbiin/semantic-release-github-pullrequest).
 - I've created a [WebAuthn connector for Laravel](https://github.com/asbiin/laravel-webauthn).
 - I've developped a [Cloudflare trusted proxies package for Laravel](https://github.com/monicahq/laravel-cloudflare).
 - I've developped a [DAV server adapter for Laravel](https://github.com/monicahq/laravel-sabre).
