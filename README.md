@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asbiin" alt="asbiin" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/asbin" target="blank"><img src="https://img.shields.io/twitter/follow/asbin?logo=twitter&style=for-the-badge" alt="asbin" /></a> </p>
+
 - 🔭 I’m currently working on [Monica](https://github.com/monicahq/monica/)
 
 - 🐙 I've made a plugin for semantic-release [semantic-release-github-pullrequest](https://github.com/asbiin/semantic-release-github-pullrequest)
@@ -30,3 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asbiin&" alt="asbiin" /></p>
 
+<!-- Made with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
